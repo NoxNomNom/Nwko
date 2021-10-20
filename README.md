@@ -4,4 +4,4 @@
 
 - Don't trust BlackShadow#3371
 
-- 冗談を見つけた [https://readme-jokes.vercel.app/api]
+- 冗談を見つけた ['https://readme-jokes.vercel.app/api']
