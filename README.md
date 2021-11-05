@@ -11,3 +11,12 @@
 - 冗談を見つけた 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://nwko.vercel.app/api/spotify)](https://open.spotify.com/user/Note)
+
+  </td>
+  <td width="50%">
