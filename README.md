@@ -7,3 +7,5 @@
 - 冗談を見つけた 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nwko&count_private=true&theme=graywhite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
