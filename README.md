@@ -7,5 +7,3 @@
 - 冗談を見つけた 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-[![Spotify](https://nwko.vercel.app/api/spotify)](https://open.spotify.com/user/Note)
