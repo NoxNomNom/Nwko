@@ -4,10 +4,10 @@
 
 - Don't trust BlackShadow#3371
 
+- My most used language on Github :P
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nwko&theme=dark)](https://github.com/Nwko)
+
 - 冗談を見つけた 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-My most used language on Github :P
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nwko&theme=dark)](https://github.com/Nwko)
